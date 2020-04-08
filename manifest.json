@@ -1,0 +1,38 @@
+{
+  "name": "Penajaib.com",
+  "short_name": "Penajaib.com",
+  "start_url": "https://www.penajaib.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Berbagi Berbagai Informasi dan tutorial yang sangat mudah untuk dipahami.",
+  "icons": [{
+    "src": "https://cdn.jsdelivr.net/gh/tianpratama1109/tianpratama1109.github.io@master/penajaib_32x32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.jsdelivr.net/gh/tianpratama1109/tianpratama1109.github.io@master/penajaib_144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.jsdelivr.net/gh/tianpratama1109/tianpratama1109.github.io@master/penajaib_180x180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.jsdelivr.net/gh/tianpratama1109/tianpratama1109.github.io@master/penajaib_192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.jsdelivr.net/gh/tianpratama1109/tianpratama1109.github.io@master/penajaib_300x300.png",
+    "sizes": "300x300",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.jsdelivr.net/gh/tianpratama1109/tianpratama1109.github.io@master/penajaib_600x600.png",
+    "sizes": "600x600",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s512/icon_kta.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
